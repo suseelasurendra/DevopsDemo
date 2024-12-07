@@ -9,13 +9,13 @@ c=a-b
 
 }
 	
-void mul()
+void Muli()
 {
 
 c=a*b
 }
 
-void div()
+void Divi()
 {
 
 c=a/b
