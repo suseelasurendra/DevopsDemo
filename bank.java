@@ -3,6 +3,12 @@
 void deposite()
 {
 bal= bal + amount;	
+}
+
+void Withdraw()
+{
+bal=bal-amount;
+}
 
 
 class bank
