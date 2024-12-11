@@ -85,7 +85,12 @@ void Divi()
 c=a/b
 }	
 
-	
+void CODE-C
+{
+::::code -c::::
+:::code-c:::::
+:::code-c::::
+}
 
 
 
