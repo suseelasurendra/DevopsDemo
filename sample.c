@@ -42,7 +42,14 @@ void CODE-A
 
 }
 
-
+void CODE-B()
+{
+::::code-b::::::
+::::code-b::::::
+::::code-b::::::
+::::code-b::::::
+::::code-b::::::
+}
 
 
 
